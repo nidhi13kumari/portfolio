@@ -1,2 +1,2 @@
 # portfolio
-personal information
+Personal Information
